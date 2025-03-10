@@ -34,7 +34,6 @@ class Boat {
     }
 }
 
-
 class BoatDockSimulation {
     private final Queue<Passenger> dockQueue = new LinkedList<>();
     private final Random random = new Random();
